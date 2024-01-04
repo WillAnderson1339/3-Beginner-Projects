@@ -4,7 +4,7 @@ max_score = 20
 
 # print the opening instructions
 print("\nWelcome to Pig!!\n----------------\n\n")
-print("Each player roles a D6 die, adding the rolled number to their score and tries to a total score of", max_score)
+print("Each player roles a D6 die, adding the rolled number to their score and tries to a total score of", max_score, ".")
 print("But - be careful! If you roll a 1 then you BUST and that turn is over (and you do not keep any of your rolls that turn)\n")
 
 # get the number of players
