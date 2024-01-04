@@ -1,3 +1,4 @@
+# comment 1 by WA
 with open("story.txt", "r") as f:
     story = f.read()
 
