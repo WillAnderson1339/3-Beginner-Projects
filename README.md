@@ -1,4 +1,6 @@
-This is from the "3 Mini Python Projects - For Beginners" turorial https://www.youtube.com/watch?v=21FnnGKSRZo
+This is from the "3 Mini Python Projects - For Beginners" 
+Turorial https://www.youtube.com/watch?v=21FnnGKSRZo
+Github   https://github.com/techwithtim/3-Mini-Python-Projects
 
 project 1
   - this is a dice rolling game called Pig where you try not to roll a 1
