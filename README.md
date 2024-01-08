@@ -8,7 +8,7 @@ Project 1
   - I added better formatting of the prompts and score summaries
 
 
-project 2
+Project 2
   - this  is a mad libs story  ... when you try it, use Mason for the Hero prompt (I did) 
   - I added letter frequency counting to practice the syntax for Lists, Tuples, Sets and Dictionaries 
   - I added a stylized table printing for the letter frequencies
