@@ -22,7 +22,7 @@ print("\nMath Quiz!")
 print("   Enter the answers as quickly as you can with as few mistakes as possible.")
 print("   This quiz uses the operators", OPERATORS)
 print("   For division round to 1 decimal place")
-input("\nPress enter to start!")
+input("\nPress enter to Start!")
 print("------------------------")
 
 start_time = time.time()
